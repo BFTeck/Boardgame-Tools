@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea/BoardGameTools.iml
+
+.idea/inspectionProfiles/profiles_settings.xml
+
+.idea/modules.xml
+
+.idea/
+
+inputPdfR/kf_adv_keyraken_card_pool_amf_compressed.pdf
+
+inputPdfV/kf_adv_keyraken_deck_card_backs.pdf
