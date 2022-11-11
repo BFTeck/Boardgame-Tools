@@ -1,4 +1,4 @@
-# BoardGameTools
+# Boardgame-Tools
 
 Ici j'ai regroupé un ensemble d'outils pour retraiter les fichiers de projets en PNP.
 
